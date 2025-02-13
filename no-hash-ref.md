@@ -1,5 +1,10 @@
 # no-hash-ref
 
-descriptive
+descriptive 
 
+<!-- O -->
 <a href="#" onClick="test"></a>
+
+<!-- X -->
+
+<a >
