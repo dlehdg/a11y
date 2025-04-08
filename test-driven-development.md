@@ -30,7 +30,7 @@ Refactor
 
 `TDD 세부 흐름`
 
-<img src="/img/캡처.PNG" />
+
 
 Write Test -> Run Unit Test -> Develop -> Run Unit Test -> 리팩토링 -> Run Unit Test
 
